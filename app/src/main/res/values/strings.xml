@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="label_published_at">Published At</string>
+    <string name="label_author">Author </string>
+    <string name="str_no_result_found">No result found </string>
+    <string name="label_top_headlines">TOP HEADLINES</string>
+</resources>
